@@ -1,1 +1,1 @@
-# Birthday Reminder App
+# Lorem-Ipsum Generator
