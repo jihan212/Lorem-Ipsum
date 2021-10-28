@@ -18,6 +18,7 @@ function App() {
   return (
     <section className='section-center'>
       <h3>tired of boring lorem ipsum?</h3>
+      <h4>input number and make your own lorem ipsum</h4>
       <form className='lorem-form' onSubmit={handleSubmit}>
         <label htmlFor='amount'>paragraphs:</label>
         <input
